@@ -8,7 +8,7 @@ reach 10 times, it stops the tilt mode.
 C++
 
 ## Equipment
-hotsspot
+hotspot
 B_L4S5I_IOT01A
 uLCD display
 
