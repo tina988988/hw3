@@ -5,7 +5,7 @@ user button to confirm. In tilt angle(after finish choosing in gesture UI), we t
 reach 10 times, it stops the tilt mode.
 
 ## Build with
-C++
+C++ Python
 
 ## Equipment
 hotspot
